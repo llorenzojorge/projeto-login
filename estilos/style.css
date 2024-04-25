@@ -88,7 +88,7 @@ div.campo > span {
 }
 
 div.campo > input {
-    background-color: #55b15b;
+    background-color: #ffffff;
     font-size: 1em;
     width: calc(100% - 45px);
     height: 100%;
@@ -99,7 +99,7 @@ div.campo > input {
 }
 
 div.campo > input:focus-within {
-    background-color: white;
+    background-color: rgb(207, 207, 207);
     border: none;
 }
 
